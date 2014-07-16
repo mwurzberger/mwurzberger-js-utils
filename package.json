@@ -1,0 +1,26 @@
+{
+  "name": "mwurzberger-utils",
+  "version": "0.0.0",
+  "description": "Homebrew and External utilities that I find useful during my standard development process. ",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mwurzberger/mwurzberger-js-utils.git"
+  },
+  "keywords": [
+    "utils",
+    "utilities"
+  ],
+  "author": "Matthew Wurzberger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mwurzberger/mwurzberger-js-utils/issues"
+  },
+  "homepage": "https://github.com/mwurzberger/mwurzberger-js-utils"
+}
